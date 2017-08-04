@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="player_name">Você</string>
+    <string name="cpu_name">CPU</string>
+    <string name="player_symbol">X</string>
+    <string name="cpu_symbol">O</string>
+    <string name="empty"></string>
+    <string name="nextRound">Próximo turno</string>
+    <string name="draw">Empate</string>
+    <string name="won">venceu</string>
+
+</resources>
